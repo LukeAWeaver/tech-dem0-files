@@ -1,4 +1,20 @@
-# Reqs: React 18 ( and Typescript ), Next.JS 13, Firebase Realtime Database ( No SQL data store ), git Workflow ( deploy ), Vercel ( host )
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### please don't judge the UI.. it's not the purpose of this project: https://tech-dem0.vercel.app/
-### Hadn't utilized param store for this project so I've just included the essentials for running this project on your own firebase realtime DB
+## Getting Started
+### 1) verify specs
+#### browser: chrome,
+#### node: v18.13.0
+#### npm: 9.4.2
+### 2) npm i
+### 3) npm run dev
+### 4) Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+note: yahoo stock API is still in package.json, this is because I plan on utilizing it in the future
+
+
+# Project details
+### Framework: Nextjs 13
+### Library: React
+### DB: Firebase Realtime DB ( No SQL )
+### CI Deployment: git workflow
+### Host: Vercel
