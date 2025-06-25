@@ -33,4 +33,4 @@ A modern, responsive web application for financial data visualization and analys
 | **CI/CD**           | GitHub Actions / Git Workflows                       |
 
 
-![Architecture Diagram](./architecture.svg)
+![Architecture Diagram](./updated_architecture.svg)
