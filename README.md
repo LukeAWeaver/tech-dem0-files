@@ -32,7 +32,4 @@ A modern, responsive web application for financial data visualization and analys
 | **Hosting**         | Vercel                                               |
 | **CI/CD**           | GitHub Actions / Git Workflows                       |
 
----
-
-## 🗺️ Project Structure
 
