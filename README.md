@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tech Demo
+
+A modern, responsive web application for financial data visualization and analysis, built with **Next.js**, **React**, **MUI**, **PrimeReact**, and **Firebase**. This project integrates real-time stock market data, provides authentication, and demonstrates scalable UI patterns.
+
+## 🚀 Features
+
+- 🔐 **Authentication** with Firebase (client-side and admin)
+- 📈 **Financial Data Visualization** with Google Finance, Yahoo Finance APIs, and Recharts
+- 🧠 **Data Fetching** with SWR and Axios (supports stale-while-revalidate caching)
+- 🎨 **UI Frameworks:** 
+  - Material UI (MUI) + Emotion
+  - PrimeReact + PrimeFlex
+  - Custom styling with Sass
+- ⚙️ **Server-side Rendering (SSR)** and static generation with Next.js
+- 🔔 **Toast notifications, modals, and confirmations** using React ecosystem libraries
+- 🌐 **Timezone-aware datetime formatting** with Moment.js and React-Moment
+
+## 📦 Tech Stack
+
+| Category           | Tech                                     |
+|--------------------|------------------------------------------|
+| Frontend Framework | Next.js (React 18)                      |
+| Styling            | MUI, Emotion, PrimeReact, PrimeFlex, Sass |
+| State/Data         | SWR, Axios                               |
+| Authentication     | Firebase (client + admin)               |
+| APIs               | Google Finance, Yahoo Finance           |
+| Visualization      | Recharts                                |
+| Tooling            | TypeScript, ESLint, Prettier, env-cmd   |
+
+## 🗺️ Project Structure
+
+
 
 ## Getting Started
 ### 1) verify specs
